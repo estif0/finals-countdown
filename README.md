@@ -5,4 +5,4 @@
 
 ## Demo
 
-[The Panki Button](https://estif0.github.io/finals-countdown/)
+[The Panic Button](https://estif0.github.io/finals-countdown/)
