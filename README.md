@@ -1,6 +1,6 @@
 # Finals-Countdown:hourglass:
 
-- This is a simple countdown to display the amount of days, hours, minutes and seconds untill May 8,2023 @8:30AM. 
+- This is a simple countdown to display the amount of days, hours, minutes and seconds untill May 9,2023. 
 - Nothing new, just made it to make people panic :grin:
 
 ## Demo
